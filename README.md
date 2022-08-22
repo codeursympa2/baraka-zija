@@ -1,4 +1,4 @@
-# test_technique
+# Project
 
 A new Flutter project.
 
